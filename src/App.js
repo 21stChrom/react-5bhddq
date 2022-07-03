@@ -10,13 +10,14 @@ export default function App() {
     <a href="https://developer.mozilla.org/" ><img style={{marginLeft:"80px"}} 
     src="https://ghavatars.staticblitz.com/21stChrom.png?size=160" alt="21stChrom profile picture" /></a>
     </div>
+    
     <div style={{color:"red"}}>``    Juice - No Laces</div> 
-
-    <audio style={{backgroundColor: "transparent"}} controls>
+    <audio style={{backgroundColor: ""}} controls>
     <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-1jl7rd@main/src/Juice%20mus/Juice%20WRLD%20-%20No%20Laces%20(Unreleased)%20(Lyrics)%20[720p].mp3" type="audio/mpeg" />
-      </audio> <div style={{color:"red"}}>``    Juice - No Laces</div> 
+      </audio> 
+      <div style={{color:"red"}}>``    Juice - No Laces</div> 
     <audio style={{backgroundColor: "transparent"}} controls>
-    <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-1jl7rd@main/src/Juice%20mus/Juice%20WRLD%20-%20No%20Laces%20(Unreleased)%20(Lyrics)%20[720p].mp3" type="audio/mpeg" />
+    <source src="" type="audio/mpeg" />
       </audio>
       <div style={{color:"red"}}>``    Juice - No Laces</div> 
     <audio style={{backgroundColor: "transparent"}} controls>
@@ -30,7 +31,7 @@ export default function App() {
     <audio style={{backgroundColor: "transparent"}} controls>
     <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-1jl7rd@main/src/Juice%20mus/Juice%20WRLD%20-%20No%20Laces%20(Unreleased)%20(Lyrics)%20[720p].mp3" type="audio/mpeg" />
       </audio>
-
+          
    <div className="second" style={{color: "transparent", marginTop: "-31px"}}><strong>Parker made this ... Just sayin.</strong></div>
    {
       <div className="first" style={{color: "red"}}>
