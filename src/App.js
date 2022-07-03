@@ -19,9 +19,9 @@ export default function App() {
     <audio style={{backgroundColor: "transparent"}} controls>
     <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/juice/dear%20Alcohol%20-%20Dax%20[720p].mp3" type="audio/mpeg" />
       </audio>
-      <div style={{color:"red"}}>``    Juice - No Laces</div> 
+      <div style={{color:"red"}}>``    DGold - Lil Parachute</div> 
     <audio style={{backgroundColor: "transparent"}} controls>
-    <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-1jl7rd@main/src/Juice%20mus/Juice%20WRLD%20-%20No%20Laces%20(Unreleased)%20(Lyrics)%20[720p].mp3" type="audio/mpeg" />
+    <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/juice/DGold%20-%20Lil%20Parachute%20(Prod.%20Sace%20x%20Loneliness)%20[720p].mp3" type="audio/mpeg" />
       </audio>
       <div style={{color:"red"}}>``    Juice - No Laces</div> 
     <audio style={{backgroundColor: "transparent"}} controls>
