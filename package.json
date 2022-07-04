@@ -3,8 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@react-icons/all-files": "^4.1.0",
-    "build": "^0.1.4",
+    "@react-icons/all-files": "4.1.0",
+    "build": "0.1.4",
+    "favicon.ico": "*",
     "null": "2.0.0",
     "react": "18.1.0",
     "react-dom": "18.1.0",
