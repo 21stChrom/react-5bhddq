@@ -19,5 +19,17 @@
   },
   "devDependencies": {
     "react-scripts": "latest"
+  },
+  "icons":[
+  {
+"src": "favicon.ico",
+"type": "image/png",
+"sizes": "44x44"
+  },
+  {
+    "src": "Square44x44Logo.scale-100.png",
+    "type": "image/png",
+    "sizes": "44x44"
   }
+]
 }
