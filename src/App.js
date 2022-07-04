@@ -15,7 +15,7 @@ export default function App() {
     <audio style={{backgroundColor: ""}} controls>
     <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-1jl7rd@main/src/Juice%20mus/Juice%20WRLD%20-%20No%20Laces%20(Unreleased)%20(Lyrics)%20[720p].mp3" type="audio/mpeg" />
       </audio> 
-      <
+      </div>
       }
       <div style={{color:"red"}}>``    Dax - Dear Alcohol</div> 
     <audio style={{backgroundColor: "transparent"}} controls>
