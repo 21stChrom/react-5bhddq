@@ -6,8 +6,7 @@ import {BsFillDropletFill} from '@react-icons/all-files/bs/BsFillDropletFill'
 export default function App() {
   return (
     <div className="container"> 
-    <div  className="img" >
-    <a href="https://developer.mozilla.org/" ><img style={{marginLeft:"80px"}} 
+    <div  className="img" > <a href="https://developer.mozilla.org/" ><img style={{marginLeft:"80px"}} 
     src="https://ghavatars.staticblitz.com/21stChrom.png?size=160" alt="21stChrom profile picture" /></a>
     </div>
     
@@ -23,12 +22,16 @@ export default function App() {
     <audio style={{backgroundColor: "transparent"}} controls>
     <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/juice/DGold%20-%20Lil%20Parachute%20(Prod.%20Sace%20x%20Loneliness)%20[720p].mp3" type="audio/mpeg" />
       </audio>
-      <div style={{color:"red"}}>``    Juice - No Laces</div> 
+      <div style={{color:"red"}}>``    S0Cliche' - Kisses with your mask on</div> 
     <audio style={{backgroundColor: "transparent"}} controls>
-    <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-1jl7rd@main/src/Juice%20mus/Juice%20WRLD%20-%20No%20Laces%20(Unreleased)%20(Lyrics)%20[720p].mp3" type="audio/mpeg" />
+    <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/juice/s0clich%C3%A9%20-%20Kisses%20With%20Your%20Mask%20On%20[Lyrics%20x%20AMV]%20[720p].mp3" type="audio/mpeg"/>
+     </audio>
+     <div style={{color:"red"}}>``    INDI - Changes</div> 
+    <audio style={{backgroundColor: "transparent"}} controls>
+    <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/juice/INDI%20-%20Changes%20ft.%20Nicolas%20Sales%20[Lyrics%20x%20AMV]%20[720p].mp3" type="audio/mpeg"/>
      </audio>
           
-   <div className="second" style={{color: "transparent", marginTop: "-31px"}}><strong>Parker made this app....</strong></div>
+   <div className="second" style={{color: "transparent", marginTop: "8px"}}><strong>Parker made this app....</strong></div>
    {
       <div className="first" style={{color: "red"}}>
       <div className="bb" style={{margin: "100px 10px 10px 10px"}} />
