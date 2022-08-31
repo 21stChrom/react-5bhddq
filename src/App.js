@@ -6,17 +6,23 @@ import {BsFillDropletFill} from '@react-icons/all-files/bs/BsFillDropletFill'
 export default function App() {
   return (
     <div className="container"> 
-    <div  className="img" > <a href="https://developer.mozilla.org/" ><img style={{marginLeft:"80px"}} 
-    src="https://ghavatars.staticblitz.com/21stChrom.png?size=160" alt="21stChrom profile picture" /></a>
-    </div>
-    {
+    <div  className="img" >
+      
+    <div  className="Pmack">
+        <div><BsFillDropletFill /></div>
+       <div className="Pmack"><span className="bibop" style={{color: "red"}}><BsFillDropletFill /></span>
+       </div>
+       </div>
+       </div>
+      
+    
       <div>
     <div style={{color:"red"}}>``    Juice - No Laces</div> 
     <audio style={{backgroundColor: ""}} controls>
     <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-1jl7rd@main/src/Juice%20mus/Juice%20WRLD%20-%20No%20Laces%20(Unreleased)%20(Lyrics)%20[720p].mp3" type="audio/mpeg" />
       </audio> 
       </div>
-      }
+      
       <div style={{color:"red"}}>``    Dax - Dear Alcohol</div> 
     <audio style={{backgroundColor: "transparent"}} controls>
     <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/juice/dear%20Alcohol%20-%20Dax%20[720p].mp3" type="audio/mpeg" />

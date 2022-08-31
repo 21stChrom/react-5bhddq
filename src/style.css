@@ -4,11 +4,13 @@ p {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .container{
+  float: inline-start;
+  display: inline-flexbox;
   z-index: ;
-  margin-right: 10px;
   overflow: hidden;
-  height: 100%;
-  width: 89%;
+  justify-content: center;
+  height: fit-content;
+  width: fit-content;
   box-shadow: 15px 8px 24px 7px;
   border: 9px solid transparent;
   border-radius: 5%;
@@ -18,12 +20,9 @@ img{
   border-radius: 50%;
 }
 .img:hover{
-  margin-top: 10px;
-  margin-left: 80px;
-  width: 60%;
-  border-radius: 45%;
+
   cursor: pointer;
-  background-color: red;
+ 
 }
 .img{
   background-color: transparent;
@@ -49,7 +48,7 @@ a:visited{
   width: 1em;
 }
 .Pmack {
-  margin-top: -44px;
+  margin-top: -1px;
   justify-content: right;
   height: 100%;
   width: 100%;
