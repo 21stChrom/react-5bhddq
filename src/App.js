@@ -36,7 +36,7 @@ export default function App() {
      </audio>
      <div style={{color:"red"}}>``    Friendships</div> 
     <audio style={{backgroundColor: "transparent"}} controls loop >
-    <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/Friendships_720p_.mp3" type="audio/mpeg" />
+    <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/juice/Friendships_720p_.mp3" type="audio/mpeg" />
      </audio>
 
 
