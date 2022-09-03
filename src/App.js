@@ -1,5 +1,7 @@
 import React from "react";
+import ReactDOM from 'react-dom'
 import "./style.css";
+import ReactAudioPlayer from 'react-audio-player'
 import {FaHome} from '@react-icons/all-files/fa/FaHome'
 import {BsFillDropletFill} from '@react-icons/all-files/bs/BsFillDropletFill'
 export default function App() {
@@ -11,6 +13,9 @@ export default function App() {
         <div><BsFillDropletFill /></div>
        <div className="Pmack"><span className="bibop" style={{color: "red"}}><BsFillDropletFill /></span>
        </div>
+       </div>
+       <div>
+       <ReactAudioPlayer src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/juice/Friendships_720p_.mp3" autplay controls/>
        </div>
        </div>
       
