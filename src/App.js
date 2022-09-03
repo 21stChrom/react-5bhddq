@@ -15,7 +15,7 @@ export default function App() {
        </div>
        </div>
        <div>
-       <ReactAudioPlayer src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/juice/Friendships_720p_.mp3" autplay controls/>
+       <ReactAudioPlayer src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/juice/Friendships_720p_.mp3" loop  controls/>
        </div>
        </div>
       
