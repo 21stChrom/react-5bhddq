@@ -22,7 +22,7 @@ export default function App() {
  <div>
     <div style={{color:"red"}}>``    Juice - No Laces</div> 
     <audio style={{backgroundColor: ""}} controls loop >
-    <source src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/audio.html/juice/Friendships_720p_.mp3" type="audio/mpeg" />
+    <source src="https://stackblitz.com/files/react-b3bg33/github/21stChrom/react-b3bg33/main/src/audio.html/juice/Juice WRLD - No Laces (Unreleased) (Lyrics) [720p].mp3" type="audio/mpeg" />
       </audio> 
       </div>
       
