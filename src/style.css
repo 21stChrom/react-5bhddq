@@ -16,6 +16,22 @@ p {
   border-radius: 5%;
   background: linear-gradient(black,rgb(132, 0, 255) 33%, black, rgb(132, 0, 255) 77%, black);
 }
+.pip {
+  margin-left: 2px;
+  box-shadow: 1px 1px 21px 7px red;
+  margin-top: 8px;
+ border-radius: 15%; 
+  left:10%;
+  position: relative;
+  display: flex;
+height: 2rem;
+width: 2rem;
+}
+.l{
+border: 3px solid blue;
+}
+
+
 img{
   border-radius: 50%;
 }
@@ -50,14 +66,14 @@ a:visited{
 .Pmack {
   margin-top: -1px;
   justify-content: right;
-  height: 100%;
+  height:   100%;
   width: 100%;
   border: 3px solid transparent;
   border-radius: 50%;
   text-align: center;
   animation: Pmack 18s linear infinite;
   transform-origin: 50% 50%;
-  color: red;
+  color: green;
 }
 @keyframes Pmack {
   0% {
@@ -65,5 +81,25 @@ transform: rotate(0deg);
   }
   100% {
 transform: rotate(360deg);
+  }
+}
+.l {
+  margin-top: -1px;
+  justify-content: right;
+  height: 5%;
+  width: 5%;
+  border: 3px solid transparent;
+  border-radius: 50%;
+  text-align: center;
+  animation: l --60ms linear reverse infinite;
+  transform-origin: 50% 50%;
+  color: red;
+}
+@keyframes l {
+  0% {
+transform: rotate(0deg);
+  }
+  100% {
+transform: rotate(-360deg);
   }
 }

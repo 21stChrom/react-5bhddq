@@ -13,7 +13,7 @@ export default function App() {
       <video className="pip" src="C:\Users\parke\Videos\Captures\JustVid.mp4" type="video/mp4" controls ></video>
       </pip>
     <div  className="Pmack">
-        <div><BsFillDropletFill /></div>
+        <div><BsFillDropletFill className="l"/></div>
        <div className="Pmack"><span className="bibop" style={{color: "red"}}><BsFillDropletFill /></span>
        </div>
        </div>
