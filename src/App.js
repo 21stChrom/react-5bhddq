@@ -8,7 +8,7 @@ export default function App() {
   return (
     <div className="container"> 
     <div  className="img" >
-      
+      <video src="C:\Users\parke\Videos\Captures\JustVid.mp4" type="video/mp4" controls ></video>
     <div  className="Pmack">
         <div><BsFillDropletFill /></div>
        <div className="Pmack"><span className="bibop" style={{color: "red"}}><BsFillDropletFill /></span>
