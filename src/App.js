@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from 'react-dom'
 import "./style.css";
-import {pip} from 'react-pip'
+import Pip  from 'react-pip'
 import ReactAudioPlayer from 'react-audio-player'
 import {FaHome} from '@react-icons/all-files/fa/FaHome'
 import {BsFillDropletFill} from '@react-icons/all-files/bs/BsFillDropletFill'
@@ -10,7 +10,7 @@ export default function App() {
     <div className="container"> 
     <div  className="img" >
       <pip className="pip">
-      <video className="pip" src="C:\Users\parke\Videos\Captures\JustVid.mp4" type="video/mp4" controls ></video>
+      <video className="pip" src="https://cdn.jsdelivr.net/gh/21stChrom/react-5bhddq@main/src/video.mp4/ShuffleSong.mp4" type="video/mp4" controls ></video>
       </pip>
     <div  className="Pmack">
         <div><BsFillDropletFill className="l"/></div>
