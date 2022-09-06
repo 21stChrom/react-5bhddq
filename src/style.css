@@ -5,8 +5,7 @@ p {
 }
 .container{
   float: inline-start;
-  display: inline-flexbox;
-  z-index: ;
+  display: flexbox;
   overflow: hidden;
   justify-content: center;
   height: fit-content;
@@ -18,14 +17,14 @@ p {
 }
 .pip {
   margin-left: 2px;
-  box-shadow: 1px 1px 21px 7px red;
+  
   margin-top: 8px;
  border-radius: 15%; 
   left:10%;
   position: relative;
   display: flex;
-height: 2rem;
-width: 2rem;
+height: 3rem;
+width: 3rem;
 }
 .l{
 border: 3px solid blue;
